@@ -1,9 +1,10 @@
 # Мои работы на С. 
 
-## laba4.c
-### Modification of one-dimensional dynamic arrays
+## Modification of one-dimensional dynamic arrays
+### Модификация одномерных динамических массивов.
 Удаление элементов массива от [a,b], которые вводятся с клавиатуры. 
 Проверка на корректный ввод всех элементов - размер массива, элементы массива, a, b.
+
 
 
 ## String_processing.c
